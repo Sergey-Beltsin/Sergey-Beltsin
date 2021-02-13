@@ -1,5 +1,5 @@
-Hi, I'm Sergey Beltsin :wave:
-![telegram](t.me/SergeyBeltsin)
+Hi, I'm Sergey Beltsin :wave:  
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sergey-Beltsin.Sergey-Beltsin)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Beltsin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
