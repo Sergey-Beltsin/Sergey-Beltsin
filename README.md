@@ -15,7 +15,7 @@ Like any front-end developer, I really enjoy designing interfaces for users to u
 </br>
 
 📊 **This week I spent my time on:**  
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sergey-Beltsin)  
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergeyBeltsin)  
 
 📈 **My GitHub stats:**  
 <p>
