@@ -15,7 +15,7 @@ Like any front-end developer, I really enjoy designing interfaces for users to u
 </br>
 
 📊 **This week I spent my time on:**  
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyBeltsin&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyBeltsin)
 
 📈 **My GitHub stats:**  
 <p>
