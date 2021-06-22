@@ -1,7 +1,7 @@
 ### Hi, I'm Sergey Beltsin :wave:  
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/SergeyBeltsin)  
 ### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sergey-Beltsin.Sergey-Beltsin)
-I am a front-end react developer, but lately I have been actively developing towards fullstack (React + ASP.NET Web Api)  
+I am a front-end react developer -) 
 
 I love programming very much, I program all my free time :D  
 
