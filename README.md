@@ -9,13 +9,10 @@ Like any front-end developer, I really enjoy designing interfaces for users to u
 
 **Something about me:**  
 - 👨🏻‍💻 I am currently working on several of my projects
-- :rocket: Developing towards a fullstack developer on React + ASP.NET Web Api
+- :rocket: Developing in react
 - :grey_question: Ask me anything, I like to talk  
 
 </br>
-
-📊 **This week I spent my time on:**  
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyBeltsin)
 
 📈 **My GitHub stats:**  
 <p>
